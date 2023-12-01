@@ -1,1 +1,1 @@
-Javascript practice.
+JavaScript practice.
